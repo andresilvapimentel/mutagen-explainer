@@ -8,7 +8,7 @@ Mutagen Explainer is a code to generate structural alerts using Local Interpreta
 
 The Mutagen Explainer framework is highly versatile (coded in Google Colab), with options that can be further developed and optimized by the users: it can accept any user-defined datasets (or datasets available in any repository), can use different fingerprints, data splitters, cross-validation methods, and any classification model from DeepChem or sklearn library.
 
-There are two codes to analyze the data generated from BBBP Explainer: BBBP(0)_explainer.ipynb and BBBP(1)_explainer.ipynb
+There are two codes to analyze the data generated from:
 1) mutagenicity_lime_ExtraTrees.ipynb explains the substructures important to the Bursi Ames mutagenicity dataset;
 2) mutagenicity_lime_RandomForest.ipynb explains the substructures important to the Bursi Ames mutagenicity dataset;
 3) hansen_lime_ExtraTrees.ipynb explains the substructures important to the Hansen Ames mutagenicity dataset;
