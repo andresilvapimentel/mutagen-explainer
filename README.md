@@ -38,7 +38,7 @@ Or
 
 # License
 
-Mutagen Explainer is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/mutagen-explainer (https://doi.org/10.5281/zenodo.10459427)
+Mutagen Explainer is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/mutagen-explainer (https://doi.org/10.5281/zenodo.10459994)
 
 # Contributors
 
