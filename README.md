@@ -2,7 +2,7 @@
 
 <img src="DNA_emoji_1.jpeg" alt="drawing" width="200"/>
 
-[![DOI](https://zenodo.org/badge/606507245.svg)](https://zenodo.org/badge/latestdoi/606507245)
+[![DOI](https://zenodo.org/badge/10459427.svg)](https://zenodo.org/badge/latestdoi/10459427)
 
 Mutagen Explainer is a code to generate structural alerts using Local Interpretable Model-Agnostic Explanations (LIME) of machine learning models from the Bursi and Hansen Ames mutagenicity datasets.
 
@@ -38,7 +38,7 @@ Or
 
 # License
 
-Mutagen Explainer is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/mutagen-explainer (https://doi.org/10.5281/zenodo.7677519)
+Mutagen Explainer is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/mutagen-explainer (https://doi.org/10.5281/zenodo.10459427)
 
 # Contributors
 
