@@ -26,7 +26,7 @@ Mutagen Explainer has the following dependencies: Lime, RDkit, DeepChem, Pandas,
 
 # Documentation
 
-The complete documentation about how to run the Mutagen Explainer protocol and several tutorials is being developed.
+The complete documentation about how to run the Mutagen Explainer protocol and several tutorials is being developed. The article is now published on line: https://doi.org/10.1039/D4ME00038B
 
 # Get help
 
